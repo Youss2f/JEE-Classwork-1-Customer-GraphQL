@@ -40,15 +40,16 @@ Youssef Atertour - EMSI 2025
 
 ---
 
-## Proof Screenshots
+## Project Demo
 
-### REST API Endpoint (Populated)
-![Customer REST API showing JSON data](screenshots/rest_api_populated.png)
+### Customer API Endpoint
+![Customer API Response](screenshots/customer-api-list.png)
 
-### Error Handling (Whitelabel Fixed)
-![Global Exception Handler - JSON Error](screenshots/error_handling.png)
+### Global Exception Handling
+![API Error Response](screenshots/api-error-response.png)
 
-### H2 Database Console
-![H2 Console showing CUSTOMER table data](screenshots/h2_console.png)
+### Database Console (H2)
+![H2 Console](screenshots/h2-database-console.png)
+
 
 
