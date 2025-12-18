@@ -37,3 +37,14 @@ mvn spring-boot:run
 
 ## Author
 Youssef Atertour - EMSI 2025
+
+---
+
+## Proof Screenshots
+
+### REST API Endpoint
+![Customer REST API showing JSON response](screenshots/rest_api.png)
+
+### H2 Database Console
+![H2 Console showing CUSTOMER table data](screenshots/h2_console.png)
+
